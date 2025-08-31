@@ -35,14 +35,4 @@ To complement the report, this repository includes **animated GIFs** showing how
 - Repeated trials, convergence curves, confidence intervals
 - Animated visualizations of best-so-far tours over time
 
----
-
-### ⚙️ Requirements
-
-- Python 3.7+
-- NumPy, SciPy, Pandas, Matplotlib
-
-Install via:
-
-```bash
-pip install -r requirements.txt
+ 
